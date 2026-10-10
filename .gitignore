@@ -6,3 +6,4 @@
 # 系统缓存文件
 .DS_Store
 Thumbs.db
+.env
